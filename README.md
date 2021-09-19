@@ -1,1 +1,1 @@
-# Registration-Form-using-Java-Swing-with-JDBC--MySQL
+# Registration-Form-using-JavaSwing-with-JDBC-MySQL
